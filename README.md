@@ -12,4 +12,4 @@
 
 使用外设：AD9226、串口转usb模块
 
-![image](https://github.com/jerryli96/SEA-oscilloscope/images/IMG_20200801_192335.jpg)
+![image](https://github.com/jerryli96/SEA-oscilloscope/tree/master/images/IMG_20200801_192335.jpg)
