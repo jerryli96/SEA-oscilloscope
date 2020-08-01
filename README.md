@@ -11,4 +11,5 @@
 使用板卡：ZYNQ-xc7z020
 
 使用外设：AD9226、串口转usb模块
+
 ![image](https://github.com/jerryli96/SEA-oscilloscope/images/IMG_20200801_192335.jpg)
